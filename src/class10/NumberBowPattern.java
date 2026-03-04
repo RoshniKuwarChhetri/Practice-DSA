@@ -17,3 +17,8 @@ public class NumberBowPattern {
   }
 }
 }
+//1       5 
+//1 2   4 5 
+//1   3   5 
+//1 2   4 5 
+//1       5 

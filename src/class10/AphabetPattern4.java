@@ -12,3 +12,7 @@ public class AphabetPattern4 {
 	
 }
 }
+
+//Z Z Z 
+//Y Y Y 
+//X X X 

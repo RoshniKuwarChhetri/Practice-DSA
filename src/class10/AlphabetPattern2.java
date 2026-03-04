@@ -11,3 +11,8 @@ public class AlphabetPattern2 {
 		}
 	}
 }
+//a b c d e 
+//a b c d e 
+//a b c d e 
+//a b c d e 
+//a b c d e 
