@@ -2,7 +2,7 @@ package class5assign;
 
 public class Divby7orContain7 {
 public static void main(String[] args) {
-	System.out.println(p(123457));
+	System.out.println(p(123745));
 }
   public static String p(int n) {
 	  String result="";
