@@ -9,18 +9,19 @@ public class ReverseEntire {
     	String rev="";
     	for(int i=s.length()-1;i>=0;i--) {
     		char c=s.charAt(i);
-    		if(c!=' ') {
-    			word=word+c;
-    		}
-    		else {
-    			word=word+c;
-    			rev=word+rev;
-    			rev="";
-    		}
-    		
-    		
-    	}
-    	rev=word+rev;
-    	return rev;
-    }
+			if(c!=' '){
+			     word=word+c;	
+			}
+			else {
+				word=word+c;
+				rev=word+rev;
+				word="";
+			}
+			
+			
+		}
+		rev=word+rev;
+		return rev;
+	}
+
 }

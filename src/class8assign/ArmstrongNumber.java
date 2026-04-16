@@ -12,13 +12,11 @@ public class ArmstrongNumber {
 	while(n>0) {
 		count++;	
 		n=n/10;}
-	
 	//find power and sum
 		while(n>0) {
 			int digit=n1%10;
 			int result=1;
-		
-		for(int i=1;i<=count;i++) {
+		for(int i=1;i<=count;i++) {			
 			result=result*digit;
 		}
 		sum=sum+result;
