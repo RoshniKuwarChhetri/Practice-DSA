@@ -2,13 +2,15 @@ package class38;
 import java.util.Arrays;
 public class MergSortAlgo {
 	    public static void mergeSort(int[] arr, int low, int high) {
-	        if (low < high) {
+	        if (low >= high) {
+	        return;
+	        }
 	            int mid = low + (high - low) / 2;
 
 	            mergeSort(arr, low, mid);       // sort left half
 	            mergeSort(arr, mid + 1, high);  // sort right half
 	            merge(arr, low, mid, high);     // merge both halves
-	        }
+	        
 	    }
 
 	    public static void merge(int[] arr, int low, int mid, int high) {
@@ -40,14 +42,14 @@ public class MergSortAlgo {
 	            j++;
 	            k++;
 	        }
-//
-//	        for (int p = 0; p < temp.length; p++) {
-//	            arr[low + p] = temp[p];
-//	        }
+
+	        for (int p = 0; p < temp.length; p++) {
+	            arr[low + p] = temp[p];
+	        }
 	    }
 
 	    public static void main(String[] args) {
-	        int[] arr = {3,2,1,6,0,4,2};
+	        int[] arr = {-3,-2,-1,-6,0,-4,-2};
 
 	        mergeSort(arr, 0, arr.length - 1);
 
