@@ -7,9 +7,9 @@ public class MergSortAlgo {
 	        }
 	            int mid = low + (high - low) / 2;
 
-	            mergeSort(arr, low, mid);       // sort left half
-	            mergeSort(arr, mid + 1, high);  // sort right half
-	            merge(arr, low, mid, high);     // merge both halves
+	            mergeSort(arr, low, mid);       // sort left half 
+	            mergeSort(arr, mid + 1, high);  // sort right half 
+	            merge(arr, low, mid, high);     // merge both halves 
 	        
 	    }
 
