@@ -1,4 +1,4 @@
-package stringpractice;
+package practice1;
 
 public class RevWord {
 public static void main(String[] args) {
