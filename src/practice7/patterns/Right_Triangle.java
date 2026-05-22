@@ -1,6 +1,6 @@
 package practice7.patterns;
 
-public class RightTriangle {
+public class Right_Triangle {
 
 	public static void main(String[] args) {
 		int n=5;
@@ -13,3 +13,8 @@ public class RightTriangle {
 		
 	}
 }
+//* 
+//* * 
+//* * * 
+//* * * * 
+//* * * * * 
