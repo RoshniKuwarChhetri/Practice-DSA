@@ -23,3 +23,4 @@ public static String rev(String s) {
 }
 
 }
+///for tom Reverse Each Word
