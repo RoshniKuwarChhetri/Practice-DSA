@@ -9,7 +9,7 @@ import java.util.List;
 
 public class ReturnRepeatingElements {
 public static void main(String[] args) {
-	char arr[]= {'A','P','P','L','E'};
+	char arr[]= {'B','A','N','A','N','A'};
 	System.out.println(p(arr));
 }
 public static List<Character> p(char arr[]){
