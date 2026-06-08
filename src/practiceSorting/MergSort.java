@@ -29,7 +29,7 @@ public class MergSort {
 		while(j<=right) {
 			temp[k++]=arr[j++];
 		}
-		for(int x=0;i<temp.length;x++) {
+		for(int x=0;x<temp.length;x++) {
 			arr[left+x]=temp[x];
 		}
 		
