@@ -1,4 +1,4 @@
-package subArray;
+package practiceSet;
 
 public class SwapWithoutThird {
 public static void main(String[] args) {

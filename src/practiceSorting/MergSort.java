@@ -36,6 +36,6 @@ public class MergSort {
 	}
 public static void main(String[] args) {
 	int arr []= {1,2,3,5,6,11,2,9,8,7,6,5,4};
-	System.out.println(mergS(arr,0,14));
+	mergS(arr,0,14);
 }
 }

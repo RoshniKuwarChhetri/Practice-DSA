@@ -1,4 +1,4 @@
-package subArray;
+package practiceSet;
 
 import java.util.ArrayList;
 import java.util.HashSet;
