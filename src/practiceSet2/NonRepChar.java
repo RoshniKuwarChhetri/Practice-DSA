@@ -6,11 +6,11 @@ import java.util.HashSet;
 
 public class NonRepChar {
 public static void main(String[] args) {
-	System.out.println(p("pop"));
+	System.out.println(p("rroshni"));
 }
 public static Character p(String s){
 	HashMap<Character,Integer> map=new HashMap<>();
-	HashSet<Character> set=new HashSet<>();
+	
     
 	for(int i=0;i<s.length();i++) {
 		char c=s.charAt(i);
@@ -22,7 +22,7 @@ public static Character p(String s){
 		}
 	}
 	
-	for(char x: map.keySet()) {
+	for(char x: s.toCharArray()) {
 		if(map.get(x)==1) {
 			return x;
 		}
