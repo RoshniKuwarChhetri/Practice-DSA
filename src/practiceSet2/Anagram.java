@@ -1,4 +1,4 @@
-package practiceString2;
+package practiceSet2;
 
 public class Anagram {
 public static void main(String[] args) {
