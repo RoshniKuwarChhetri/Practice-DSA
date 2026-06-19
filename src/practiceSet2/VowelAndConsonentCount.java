@@ -1,0 +1,25 @@
+package practiceSet2;
+
+public class VowelAndConsonentCount {
+public static void main(String[] args) {
+	System.out.println(p("aeioUUqqqqqqq"));
+}
+public static String p(String s) {
+	int vCount=0;
+	int cCount=0;
+	for(int i=0;i<s.length();i++) {
+		char c=s.charAt(i);
+		if(c<='a' || c>='z'||c<='A' || c>='Z') {
+			if(c=='a'||c=='e'||c=='i'||c=='o'||c=='u'||c=='A'||c=='E'||c=='I'||c=='O'||c=='U') {
+				vCount++;
+			}
+			else {
+				cCount++;
+			}
+		}
+	}
+	
+	
+	return "vowel count is" + " "+ vCount +" " +"and conconent count is " + cCount;
+}
+}
