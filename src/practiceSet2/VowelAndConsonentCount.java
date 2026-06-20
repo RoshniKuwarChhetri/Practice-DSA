@@ -2,7 +2,7 @@ package practiceSet2;
 
 public class VowelAndConsonentCount {
 public static void main(String[] args) {
-	System.out.println(p("aeioUUqqqqqqq"));
+	System.out.println(p("aeioUUqqqqqqqqqqqqqqq"));
 }
 public static String p(String s) {
 	int vCount=0;
