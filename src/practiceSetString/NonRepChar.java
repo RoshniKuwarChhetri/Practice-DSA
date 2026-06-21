@@ -1,4 +1,4 @@
-package practiceSet2;
+package practiceSetString;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package practiceSet2;
+package practiceSetString;
 
 public class VowelAndConsonentCount {
 public static void main(String[] args) {

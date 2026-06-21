@@ -1,4 +1,4 @@
-package practiceSet2;
+package practiceSetArray;
 
 public class SmallestElementInArray {
 public static void main(String[] args) {

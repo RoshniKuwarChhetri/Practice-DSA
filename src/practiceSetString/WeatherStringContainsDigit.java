@@ -1,4 +1,4 @@
-package practiceSet2;
+package practiceSetString;
 
 public class WeatherStringContainsDigit {
 public static void main(String[] args) {
