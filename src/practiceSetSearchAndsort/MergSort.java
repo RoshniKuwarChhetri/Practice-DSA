@@ -2,7 +2,7 @@ package practiceSetSearchAndsort;
 
 public class MergSort {
 public static void main(String[] args) {
-	int arr[]= {5,4,3,21};
+	int arr[]= {5,4,3,1};
 	mergS(arr,0,arr.length-1);
 	for(int i:arr) {
 		System.out.print(i);
