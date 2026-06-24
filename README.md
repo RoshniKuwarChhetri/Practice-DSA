@@ -38,6 +38,11 @@ This repository contains solutions to various DSA and Java programming problems 
 * All Substrings
 * Number of Substrings
 
+### Linked List
+* Reverse
+* middle
+* cycle
+  
 ### Searching
 
 * Binary Search
