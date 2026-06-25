@@ -62,6 +62,12 @@ This repository contains solutions to various DSA and Java programming problems 
 * Factorial
 * Recursive Problem Solving
 
+### Stack/Queue
+
+* valid Parenthesis
+
+  
+
 ### Pattern Programs
 
 * Butterfly Pattern
