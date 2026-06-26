@@ -66,8 +66,11 @@ This repository contains solutions to various DSA and Java programming problems 
 
 * valid Parenthesis
 
+###
+* All sub Array
+* Maximum Sum In SubArray
+* Maximum sum  in SubArray of given size
   
-
 ### Pattern Programs
 
 * Butterfly Pattern
