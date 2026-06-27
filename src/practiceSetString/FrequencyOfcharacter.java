@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class FrequencyOfcharacter {
 public static void main(String[] args) {
-	System.out.println(p("roshni  "));
+	System.out.println(p("roshni maxcma  cmx mx m   xdsx ------========= 88888 1 22 333 4444 "));
 }
 public static HashMap<Character,Integer> p(String s){
 	 HashMap<Character,Integer>map= new HashMap<>();
