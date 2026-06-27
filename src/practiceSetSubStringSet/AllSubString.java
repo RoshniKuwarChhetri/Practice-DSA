@@ -1,4 +1,4 @@
-package subStringSet;
+package practiceSetSubStringSet;
 
 public class AllSubString {
 public static void main(String[] args) {

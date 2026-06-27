@@ -1,4 +1,4 @@
-package subStringSet;
+package practiceSetSubStringSet;
 
 public class NumOfSubStr {
 public static void main(String[] args) {

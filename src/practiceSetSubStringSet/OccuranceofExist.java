@@ -1,4 +1,4 @@
-package subStringSet;
+package practiceSetSubStringSet;
 
 public class OccuranceofExist {
 	public static void main(String[] args) {

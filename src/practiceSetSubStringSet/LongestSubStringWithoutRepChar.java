@@ -1,4 +1,4 @@
-package subStringSet;
+package practiceSetSubStringSet;
 
 import java.util.HashSet;
 import java.util.Set;
