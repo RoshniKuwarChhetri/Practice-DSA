@@ -15,6 +15,8 @@ This repository contains solutions to various DSA and Java programming problems 
 * Maximum Subarray
 * Merge Sorted Array
 * Move Zeroes to End
+* Dutch National flag
+* peak element
 * Remove Duplicates from Array
 * Rotate Array by K Positions
 * Second Largest Element
@@ -25,12 +27,14 @@ This repository contains solutions to various DSA and Java programming problems 
 ### Strings
 
 * String Reverse
+* Palindrome
 * Reverse Word in Sentence
 * Reverse Entire String
 * Palindrome Check
 * Anagram Check
 * Permutation of String
 * Non-Repeating Character
+* Remove duplicate
 * Longest Substring Without Repeating Characters
 * Count Vowels and Consonants
 * Check if String Contains Digits
