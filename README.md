@@ -41,6 +41,9 @@ This repository contains solutions to various DSA and Java programming problems 
 * Pangram String
 * All Substrings
 * Number of Substrings
+* Check if SubString exists
+* Occurence if SubString exists
+* longest SubString without repeating characters
 
 ### Linked List
 * Reverse
