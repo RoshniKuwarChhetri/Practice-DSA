@@ -7,6 +7,14 @@ A collection of Data Structures and Algorithms (DSA) problems implemented in Jav
 This repository contains solutions to various DSA and Java programming problems covering arrays, strings, searching, sorting, recursion, and pattern-based questions. The goal is to strengthen problem-solving skills and build a strong foundation for coding interviews.
 
 ## Topics Covered
+### Numbers
+* Count Digits
+* Swap numbers
+* Palindrome number
+* Prime numbers
+* Prime number between range
+* Kth prime number
+
 
 ### Arrays
 
