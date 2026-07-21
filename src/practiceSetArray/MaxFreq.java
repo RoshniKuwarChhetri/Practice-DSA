@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 public class MaxFreq {
 	public static void main(String[] args) {
-		char c[]= {'2','e','e'};
+		char c[]= {'2','e','e','e'};
 		System.out.println(p(c));
 	}
 public static char p(char arr[]) {
