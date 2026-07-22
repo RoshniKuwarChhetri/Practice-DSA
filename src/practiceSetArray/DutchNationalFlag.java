@@ -2,7 +2,7 @@ package practiceSetArray;
 
 public class DutchNationalFlag {
 public static void main(String[] args) {
-	int arr[]= {0,1,2,0,2,2,1,1,1,1,2,2,2,2,0,2,0,1};
+	int arr[]= {0,1,2,0,2,2,1,1,1,1,2,2,2,2,0,2,0,1,0,2,1,2,};
 	int result[]=p(arr);
 	for(int i : arr) {
 		System.out.print(i);
